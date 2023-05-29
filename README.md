@@ -27,6 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravnaga&show_icons=true&locale=en" alt="souravnaga" /></p>
 
 <img align="left" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=souravnaga&" alt="souravnaga" /></p>
+<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=souravnaga&" alt="souravnaga" /></p>
 <br /><br/><br /><br/>
 <h3 align="center">Thank You for visiting my profile😇😊</h3>
