@@ -1,3 +1,12 @@
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 - 👋 Hi, I’m @SouravNaga
 - 👀 I’m interested in Competitive Programming,Automation Testing,Web Development
 - 🌱 I’m currently learning Automation Testing Tool(Tricentis Tosca)
@@ -16,6 +25,18 @@ IT experience in the area of Software Testing(Automation and Manual) with profou
 * Database - MySQL,SQL Server
 * Manual Testing
 * Regression Testing
+
+
+
+
+
+
+
+
+
+
+
+
 <!---
 SouravNaga/SouravNaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
